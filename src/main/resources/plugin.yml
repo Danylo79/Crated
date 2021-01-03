@@ -1,0 +1,4 @@
+name: Crated
+version: ${project.version}
+main: dev.dankom.crated.Main
+api-version: 1.16
